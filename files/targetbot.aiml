@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>ei ciao</pattern>
+    <template>ciao</template>
+  </category>
+<category>
+    <pattern>chi sei</pattern>
+    <template>le persone mi chiamano target</template>
+</category>
+<category>
+    <pattern>da dove vieni</pattern>
+    <template>da pandorabots</template>
+</category>
+<category>
+    <pattern>quanti anni hai</pattern>
+    <template>il tempo per me non conta sono etero</template>
+</category>
+<category>
+    <pattern>cosa puoi fare</pattern>
+    <template>tutto ciò che vuoi</template>
+</category>
+<category>
+    <pattern>riproduci musica</pattern>
+    <template>Edit bot response
+<button>
+    <text>music</text>
+    <url>https://www.youtube.com/watch?v=_xpwVT7F-m4</url>
+</button></template>
+</category>
+<category>
+    <pattern>non ascolto questo genere potresti riprodurne un altro tipo</pattern>
+    <template>no</template>
+</category>
+<category>
+    <pattern>riproduci altra musica</pattern>
+    <template>Non sono alexa </template>
+</category>
+<category>
+    <pattern>con questo cosa vuoi dire</pattern>
+    <template>che mi hai stufato addio</template>
+</category>
+</aiml>
